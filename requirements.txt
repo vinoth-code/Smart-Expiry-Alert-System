@@ -1,0 +1,11 @@
+streamlit
+pillow
+pytesseract
+opencv-python
+numpy
+pandas
+APScheduler
+python-dotenv
+scikit-learn
+joblib
+dateparser
