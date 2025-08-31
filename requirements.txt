@@ -9,3 +9,5 @@ python-dotenv
 scikit-learn
 joblib
 dateparser
+opencv-python-headless
+pytesseract
